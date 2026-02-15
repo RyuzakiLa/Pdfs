@@ -6,6 +6,7 @@
 # OS
 
 --> [OSOSTutorialPoin](https://www.tutorialspoint.com/operating_system/os_properties.htm)
+
 --> [Linux](https://labex.io/linuxjourney)
 
 
@@ -21,12 +22,14 @@
 # Others
 
 --> [ReverseEngg](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
+
 --> [(ExplainShell](https://explainshell.com/)
 
 
 # Old_OS
 
 --> [Parrot](https://explainshell.com/)
+
 --> [Kali](https://old.kali.org/kali-images/)
 
 
