@@ -34,3 +34,7 @@
 #OSCPPlayList
 
 --> OSCPPlayList(OSCPPlayList)[https://youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf&si=i3hw_Ws_an8rK57B]
+
+#Computer-Compiler-Lang
+
+--> Computer-Compiler-Lang(Computer-Compiler-Lang)[https://github.com/rambhawan/Computer-Compiler-Lang]
